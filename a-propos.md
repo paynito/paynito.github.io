@@ -4,17 +4,16 @@ title: À propos
 ref: about
 lang: fr
 ---
+אני אקדמאי.
+אתה יכול לקרוא את המסמכים שלי.
+בְּ
 
-Ceci est le thème par défaut de Jekyll. Vous pouvez en savoir plus sur les façons de personnaliser votre propre thème, ainsi que la documation de Jekyll sur [jekyllrb.com](http://jekyllrb.com/)
+[https://www.researchgate.net/profile/Brandon_Payne3]
 
-Vous pouvez trouver ce thème multilingue sur :
-{% include icon-github.html username="sylvaindurand" %} /
-[multilingual-jekyll](https://github.com/sylvaindurand/multilingual-jekyll)
+and
 
-Vous pouvez trouver le code source de ce nouveau thème Jekyll sur :
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
+[https://bgu.academia.edu/בנימיןהגלילי]
 
-Enfin, le code source de Jekyll est présenté sur
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+and
+
+[http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2742072]
