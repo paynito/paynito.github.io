@@ -5,6 +5,7 @@ ref: statsBooks
 date:   2016-08-29 09:48:44 +0100
 categories: stats
 lang: he
+excerpt_separator: <!--more-->
 ---
 {% highlight latex %}
 \usepackage{setspace}
