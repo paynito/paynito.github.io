@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Statistics Books"
+title:  "ספרי סטטיסטיקות"
 ref: statsBooks
 date:   2016-08-29 09:48:44 +0100
 categories: stats
-lang: en
+lang: he
 ---
 {% highlight latex %}
 \usepackage{setspace}
@@ -20,18 +20,16 @@ lang: en
 \end{document}
 
 {% endhighlight %}
-
-I wanted to share a BibLaTeX file with some stats books I'm using on my MA Thesis.
-Maybe they will help you with you-R oR Stats oR Research oR Something. /endVisualPun
+רציתי לשתף קובץ .ביב 
+עם כמה ספרי סטטיסטיקות אני משתמש על עבודת המאסטר שלי
 
 [Imgur](http://i.imgur.com/ta4Vx7q.png)
 
-So, here R some R and Stats Books in [a .bib](https://github.com/paynito/dotfiles/blob/master/statsBooksAug29.bib)
+[a .bib](https://github.com/paynito/dotfiles/blob/master/statsBooksAug29.bib)
 
 
 
-Check out my main page at [benyomin.cf][benyomin-link].
-This is just the blog component for that page.
+[benyomin.cf][benyomin-link].
 
 [benyomin-link]: http://benyomin.cf
 
