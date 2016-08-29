@@ -1,8 +1,8 @@
 ---
 layout: page
-title: À propos
+title: עליי
 ref: about
-lang: fr
+lang: he
 ---
 אני אקדמאי.
 אתה יכול לקרוא את המסמכים שלי.
