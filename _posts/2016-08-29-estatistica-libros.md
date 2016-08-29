@@ -24,7 +24,7 @@ excerpt_separator: <!--more-->
 רציתי לשתף קובץ .ביב 
 עם כמה ספרי סטטיסטיקות אני משתמש על עבודת המאסטר שלי
 
-[Imgur](http://i.imgur.com/ta4Vx7q.png)
+(http://i.imgur.com/ta4Vx7q.png)
 
 [a .bib](https://github.com/paynito/dotfiles/blob/master/statsBooksAug29.bib)
 

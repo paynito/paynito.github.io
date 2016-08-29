@@ -13,4 +13,3 @@ Check out my main page at [benyomin.cf][benyomin-link].
 This is just the blog component for that page.
 
 [benyomin-link]: http://benyomin.cf
-j
