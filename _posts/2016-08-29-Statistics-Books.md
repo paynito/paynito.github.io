@@ -23,9 +23,9 @@ excerpt_separator: <!--more-->
 {% endhighlight %}
 
 I wanted to share a BibLaTeX file with some stats books I'm using on my MA Thesis.
-Maybe they will help you with you-R oR Stats oR Research oR Something. /(endVisualPun
+Maybe they will help you with you-R oR Stats oR Research oR Something.
 
-![http://i.imgur.com/ta4Vx7q.png]
+![](http://i.imgur.com/ta4Vx7q.png =384x)
 So, here R some R and Stats Books in [a .bib](https://github.com/paynito/dotfiles/blob/master/statsBooksAug29.bib)
 
 

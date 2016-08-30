@@ -21,11 +21,12 @@ excerpt_separator: <!--more-->
 \end{document}
 
 {% endhighlight %}
-רציתי לשתף קובץ .ביב 
+רציתי לשתף קובץ
+[.ביב](https://github.com/paynito/dotfiles/blob/master/statsBooksAug29.bib)  
 עם כמה ספרי סטטיסטיקות אני משתמש על עבודת המאסטר שלי
 
+![](http://i.imgur.com/ta4Vx7q.png =384x)
 
-![http://i.imgur.com/ta4Vx7q.png]
 [a .bib](https://github.com/paynito/dotfiles/blob/master/statsBooksAug29.bib)
 
 
