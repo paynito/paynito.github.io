@@ -15,10 +15,14 @@ date: "8/31/2016"
 output: html_document
 ---
 
-# Adapted from:
-https://www.r-bloggers.com/side-by-side-box-plots-with-patterns-from-data-sets-stacked-by-reshape2-and-melt-in-r/
-# R code for this post available:
+# Adapted from:  
+
+https://www.r-bloggers.com/side-by-side-box-plots-with-patterns-from-data-sets-stacked-by-reshape2-and-melt-in-r/  
+
+# R code for this post available:  
+
 [gist](https://gist.github.com/paynito/878bc5e151ca134f823013194ebe5020)
+
 * Create a boxplot to illustrate the range of Incomes 
 as it varies by city.
 * Change a little bit of the example to see if you understood the code.
