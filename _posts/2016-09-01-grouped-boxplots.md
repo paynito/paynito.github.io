@@ -17,7 +17,7 @@ output: html_document
 
 # Adapted from:  
 
-https://www.r-bloggers.com/side-by-side-box-plots-with-patterns-from-data-sets-stacked-by-reshape2-and-melt-in-r/  
+[Eric Cai - The Chemical Statistician](https://www.r-bloggers.com/side-by-side-box-plots-with-patterns-from-data-sets-stacked-by-reshape2-and-melt-in-r/)  
 
 # R code for this post available:  
 
