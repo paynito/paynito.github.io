@@ -25,8 +25,7 @@ Blog for assignment: How to Write About Your Data
 
 # The excerpted portion utilized in this course includes
  
- ## 15 variables:
- 
+## 15 variables:
  1. 2010 GDP/person
  2. 2008 alcohol consumption/person
  3. % of labour force in the military
@@ -36,15 +35,16 @@ Blog for assignment: How to Write About Your Data
  7. 2007 total employment rate
  8. 2009 estimated HIV rate
  9. 2010 internet connectivity rate (/100 people)
- 10.2011 life expectancy at birth
- 11.2010 oil consumption (tonnes/yr/person)
- 12.2009 polity score (ranges from -10 autocracy to 10 democracy)
- 13.2008 residental electricity usage (kWh/year/person)
- 14.2005 suicide rate
- 15.2008 urban rate
+ 10. 2011 life expectancy at birth
+ 11. 2010 oil consumption (tonnes/yr/person)
+ 12. 2009 polity score (ranges from -10 autocracy to 10 democracy)
+ 13. 2008 residental electricity usage (kWh/year/person)
+ 14. 2005 suicide rate
+ 15. 2008 urban rate
 
- ## a)sample
-  ii) what level of analysis  (individual/group/aggregate)
+## sample
+  * what level of analysis  (individual/group/aggregate)
+  
   This data is often reported in terms of meaningful units.
   The first two variables make sense in terms of individuals,
   the total GDP is calculated and then divided by the population
@@ -57,28 +57,26 @@ Blog for assignment: How to Write About Your Data
   means that out of 100 people in the labour force, 3 were employed by
   the military.
 
-## b)all of these are quantitative variables
+## all of these are quantitative variables
 
-## c)procedure
+## procedure
   This varies widely by indicator and by country. The above mentioned
   alcohol consumption included both a survey, where people self-reported
   and empirical investigations and expert judgments. Czechs self-reported
   11.8 liters of alcohol consumption, but the experts estimated 1.2 liters
   of unrecorded consumption, to give the total of 13 liters.
 
- ## d)
-  i)my Variables and research Question:
+## My Project:
+  * my Variables and research Question:
     In this course I will be studying the relationship between oil consumption and breast cancer.
     I am using the data to test the hypothesis that burning oil in a country pollutes the air and
     increases breast cancer in the population.
- ii) the data collection procedure:
-   1) data source: International Agency for Research on Cancer http://www.iarc.fr/
+  *the data collection procedure:
+   1. data source: International Agency for Research on Cancer http://www.iarc.fr/
    again, varies by country, people go to the doctor/hospital, suveyor calls or emails hospital and asks, "How many new cases of
    cancer did you get this month?"
-   2) British Petroleum's /World Statistical Review 2008/
-   http://www.bp.com/liveassets/bp_internet/globalbp/globalbp_uk_english/reports_and_publications/statistical_energy_review_2008/STAGING/local_assets/downloads/pdf/statistical_review_of_world_energy_full_review_2008.pdf
+   2. British Petroleum's /World Statistical Review 2008/
     - includes data from OECD Commercial Inventories, etc.
-
 
 ## WHAT TO SUBMIT:
 
