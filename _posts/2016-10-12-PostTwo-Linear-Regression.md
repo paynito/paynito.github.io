@@ -1,15 +1,14 @@
 ---
 layout: post
-title:  "PostTwo - Linear Regression in Python"
+title:  "Linear Regression in Python"
 ref: postTwo
 date:   2016-10-12 09:48:44 +0100
 categories: course stats python gapMinder
 lang: en
 excerpt_separator: ""
 ---
-# Assignment 2
-for course "Regression Modeling in Practice"
-https://www.coursera.org/learn/regression-modeling-practice
+# Assignment 2:["Regression Modeling in Practice"](https://www.coursera.org/learn/regression-modeling-practice)
+
 This week's assignment asks you to test a basic linear regression model for the association between 
 your primary explanatory variable and a response variable, and to create a blog entry describing your results.
 
