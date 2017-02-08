@@ -80,8 +80,9 @@ ref: someName          ## this is the same for translations of the same post
 
 
 ----
-
+broken:
 Added disqus to this post.
+broken: tag cloud is just a list and links are dead
 
 <h1>Tag Cloud</h1>
 {% assign tags = site.tags | sort %}
