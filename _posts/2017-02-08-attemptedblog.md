@@ -2,7 +2,7 @@
 title: "Publish to Jekyll github pages from R-markdown"
 date: 2017-02-08 18:48:44 +0333
 ref: attemptedblog
-categories : spacemacs
+categories: spacemacs
 tags: rmd package servr jekyll knitr
 lang: en
 ---
