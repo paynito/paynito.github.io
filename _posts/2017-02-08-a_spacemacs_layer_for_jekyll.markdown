@@ -81,7 +81,7 @@ ref: someName          ## this is the same for translations of the same post
 
 huh, 
 looks like I had to edit org-export-backends in .emacs.d/elpa/org-plus-contrib-date/org.el
-
+http://randomgeekery.org/post/2014/exporting-from-org-to-markdown/
 had to add md to the list.  now i can/could compose in .org instead of .md,
 then my code blocks would actually be executable, I guess really for my current
 workflow I need to blog from .Rmd, is that possible?
