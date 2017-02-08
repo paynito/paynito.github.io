@@ -3,9 +3,13 @@ layout: post
 ref: spaceJekyll
 date: 2017-02-08 16:48:44 +0333
 categories : spacemacs
+tags: jekyll spacemacs layer emacs elisp
 lang: en 
 title: "A spacemacs layer for jekyll"
 ---
+Apparently tags and categories are not the same thing to jekyll.
+https://superdevresources.com/tag-cloud-jekyll/
+https://jovandeginste.github.io/2016/05/04/add-a-tag-cloud-to-my-jekyll-site.html
 
 hmm, seems that the org-export to .md function has disappeared.
 Prompted me to try a new blogging layer for spacemacs.
@@ -74,3 +78,15 @@ ref: someName          ## this is the same for translations of the same post
 6. M-x magit-push - pushes the blog post to github pages.
 
 
+# test the tag cloud
+
+<h1>Tag Cloud</h1>
+{% assign tags = site.tags | sort %}
+{% for tag in tags %}
+ <span class="site-tag">
+    <a href="/tag/{{ tag | first | slugify }}/"
+        style="font-size: {{ tag | last | size  |  times: 4 | plus: 80  }}%">
+            {{ tag[0] | replace:'-', ' ' }} ({{ tag | last | size }})
+    </a>
+</span>
+{% endfor %}
