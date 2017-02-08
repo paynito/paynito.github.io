@@ -46,11 +46,14 @@ To create a new post:
 4. n       - new post
 
 4.5 fixed !
-how: edit the file hyde.el, section  (defun hyde/new-post (title)
+how: edit the file hyde.el, section 
+{% highlight elisp %}
+(defun hyde/new-post (title)
       (insert "date: 2017-MM-DD TT:TT:TT \n")
       (insert "categories: \n")
       (insert "lang: end\n")
       (insert "ref: \n")
+{% endhighlight %}
 still todo: make date/time automatic
 
 old:
