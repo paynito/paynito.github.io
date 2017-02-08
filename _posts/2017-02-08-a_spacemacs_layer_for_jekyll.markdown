@@ -2,7 +2,7 @@
 layout: post
 ref: spaceJekyll
 date: 2017-02-08 16:48:44 +0333
-categories : spacemacs elisp emacs
+categories : spacemacs
 lang: en 
 title: "A spacemacs layer for jekyll"
 ---
@@ -31,7 +31,9 @@ blogging with the jekyll layer involves hitting SPC a j when you have a
 file open in emacs in your blog's directory. hmm.
 
 ok, seems like it lets me "skip" 
+
 1. export from org-mode to .md
+
 2. jekyll build
 
 To create a new post:
@@ -46,6 +48,7 @@ To create a new post:
 4. n       - new post
 
 4.5 fixed !
+
 how: edit the file hyde.el, section 
 {% highlight elisp %}
 (defun hyde/new-post (title)
