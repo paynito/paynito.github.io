@@ -2,7 +2,7 @@
 layout: post
 ref: spaceJekyll
 date: 2017-02-08 16:48:44 +0333
-categories : spacemacs, emacs
+categories : spacemacs elisp emacs
 lang: en 
 title: "A spacemacs layer for jekyll"
 ---
