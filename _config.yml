@@ -20,6 +20,7 @@ feed:
   en: /feed.xml
   he: /flux.xml
 baseurl:  # the subpath of your site, e.g. /blog
+exclude: [Gemfile, Gemfile.lock, README.md, vendor, org, .hyde.el]
 url: "http://paynito.github.io" # the base hostname & protocol for your site
 twitter_username: 
 github_username:  paynito
