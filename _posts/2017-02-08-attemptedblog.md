@@ -1,11 +1,10 @@
 ---
 title: "blog from .Rmd"
 date: 2017-02-08 03:48:44 +0333
-ref: rmdblog1
+ref: attemptedblog
 categories : spacemacs
 tags: rmd package servr jekyll knitr
 lang: en
-latex_engine: xelatex
 ---
 A live-blog post setting up blogging in Rmd.
 
