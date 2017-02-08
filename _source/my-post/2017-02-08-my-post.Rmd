@@ -1,0 +1,15 @@
+---
+title: "my post"
+layout: post
+date: '`r Sys.time()`'
+tags:
+- example1
+- example2
+published: yes
+---
+
+Your markdown here!
+
+```{r}
+plot(1:10)
+```

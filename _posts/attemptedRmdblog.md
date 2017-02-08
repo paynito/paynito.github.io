@@ -1,10 +1,8 @@
 ---
-title: "blog from .Rmd"
-date: 2017-02-08 03:48:44 +0333
-ref: rmdblog1
-categories : spacemacs
-tags: rmd package servr jekyll knitr
-lang: en
+title: "1"
+date: 2017-02-08
+output: 
+pdf_document: 
 latex_engine: xelatex
 ---
 A live-blog post setting up blogging in Rmd.
@@ -50,19 +48,6 @@ knitr::kable(head(mtcars))
 ```
 hmm, seems this .Rmd needs to be in the _source directory inside a jekyll site directory.
 
-No, just the jekyll site dir, if I run the
-
-```r
-servr::jekyll() 
-```
-
-```
-## Error: Failed to compile ./attemptedRmdblog.Rmd
-```
-from inside the _site, then the post (.hmtl) goes there, that's not where I want it.
-
-Post still isn't showing up. I need to add more to my YAML section in the .Rmd, all that
-lang and ref stuff that I needed in the .md.
 
 ## build blog post with:
 
