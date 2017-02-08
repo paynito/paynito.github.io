@@ -20,3 +20,28 @@ posts.
 
 blogging with the jekyll layer involves hitting SPC a j when you have a
 file open in emacs in your blog's directory. hmm.
+
+ok, seems like it lets me "skip" the step of jekyll build from the terminal.
+
+To create a new post:
+
+1. SPC a d - dired window, go to blog dir
+
+2. pick any file
+
+3. SPC a j - jekyll layer window
+
+4. n       - new post
+
+4.5 add lines in YAML header
+
+date: 2016-09-01 16:48:44 +0333
+lang: en  (or he)
+categories: 
+ref: someName          ## this is the same for translations of the same post
+
+5. SPC a j 
+   arrow to the post you just created
+   c       - commit the post
+   
+6. M-x magit-push - pushes the blog post to github pages.
