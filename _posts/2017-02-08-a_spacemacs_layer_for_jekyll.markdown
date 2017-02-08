@@ -79,6 +79,14 @@ ref: someName          ## this is the same for translations of the same post
 6. M-x magit-push - pushes the blog post to github pages.
 
 
+huh, 
+looks like I had to edit org-export-backends in .emacs.d/elpa/org-plus-contrib-date/org.el
+
+had to add md to the list.  now i can/could compose in .org instead of .md,
+then my code blocks would actually be executable, I guess really for my current
+workflow I need to blog from .Rmd, is that possible?
+
+
 ----
 broken:
 Added disqus to this post.
