@@ -1,6 +1,8 @@
 ---
+layout: post
 title: "blog from .Rmd"
 date: 2017-02-08 03:48:44 +0333
+comments: true
 ref: yakShaving
 categories: spacemacs
 tags: rmd package servr jekyll knitr
