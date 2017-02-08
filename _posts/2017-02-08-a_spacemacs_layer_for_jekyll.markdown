@@ -2,6 +2,7 @@
 layout: post
 ref: spaceJekyll
 date: 2017-02-08 16:48:44 +0333
+comments: true
 categories : spacemacs
 tags: jekyll spacemacs layer emacs elisp
 lang: en 
@@ -78,7 +79,9 @@ ref: someName          ## this is the same for translations of the same post
 6. M-x magit-push - pushes the blog post to github pages.
 
 
-# test the tag cloud
+----
+
+Added disqus to this post.
 
 <h1>Tag Cloud</h1>
 {% assign tags = site.tags | sort %}
