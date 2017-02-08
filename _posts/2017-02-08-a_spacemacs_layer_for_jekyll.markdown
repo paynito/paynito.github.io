@@ -85,6 +85,10 @@ http://randomgeekery.org/post/2014/exporting-from-org-to-markdown/
 had to add md to the list.  now i can/could compose in .org instead of .md,
 then my code blocks would actually be executable, I guess really for my current
 workflow I need to blog from .Rmd, is that possible?
+https://www.r-bloggers.com/blogging-with-rmarkdown-knitr-and-jekyll/
+
+Ok, it's been possible for more than a year. I guess that's something I could look into then
+since I seem to prefer rmarkdown at the moment to org-babel-tangle-R blocks.
 
 
 ----
