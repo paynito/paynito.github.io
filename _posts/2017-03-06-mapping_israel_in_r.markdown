@@ -1,9 +1,10 @@
 ---
 layout: post
 title: "Mapping Israel in R"
-date: 2017-MM-DD TT:TT:TT 
-categories: 
-lang: end
+date: 2017-03-05 03:22:33 
+categories: gis maps mapping 
+lang: en
+tags: gis map Israel
 ref: mapV1
 ---
 

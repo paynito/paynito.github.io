@@ -41,3 +41,4 @@ expect_is(foo(8), "numeric")
 rmarkdown::render("tddR.Rmd", "pdf_document")
 
 ```
+
