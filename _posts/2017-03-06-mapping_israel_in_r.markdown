@@ -78,6 +78,6 @@ ggmap(mapImageData3,
   labs(x="Longitude",
        y="Latitude")
 {% endhighlight %}
-![map with shapes]({{ site.url }}/images/ILmap1.png]
+![map with shapes]({{ site.url }}/images/ILmap1.png)
 It still remains to match the areas to some useful data (birthrate, income, z-ness, rainfall . . . ) and produce a cloropleth. 
 All [code for this post](https://gist.github.com/academikuser/57cdcd6732b22be836d7f939b069692d) is available as a gist.
