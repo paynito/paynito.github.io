@@ -1,10 +1,11 @@
 ---
 layout: post
-title: "Compiling a thesisdown directory in ess"
-date: 2017-03-06 15:05:05 -0700
+title: Compiling a thesisdown directory in ess
+date: {}
 categories: spacemacs
 lang: en
 ref: thesisDown1
+published: true
 ---
 The [thesisdown](https://github.com/ismayc/thesisdown) package for R compiles a nice pdf. Chapters are stored
 as separate .Rmd files. So, when typing away in [ess](http://ess.r-project.org/) how do you compile the whole thing?
