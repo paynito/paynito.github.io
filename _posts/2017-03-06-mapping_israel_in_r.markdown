@@ -80,9 +80,9 @@ ggmap(mapImageData3,
        y="Latitude")
 {% endhighlight %}
 
-<div id="container">   It still remains to match the areas to some useful data (birthrate, income, z-ness, rainfall . . . ) and produce a cloropleth.
+<div id="container"; style="width:100%;float:none;">   It still remains to match the areas to some useful data (birthrate, income, z-ness, rainfall . . . ) and produce a cloropleth.
 
-    <div id="floated">![map with shapes]({{ site.url }}/images/ILmap1.png)</div>
+    <div id="floated";style="width:30%; float:left;">![map with shapes]({{ site.url }}/images/ILmap1.png)</div>
     All [code for this post](https://gist.github.com/academikuser/57cdcd6732b22be836d7f939b069692d) is available as a gist.
 </div>
 ![map with shapes]({{ site.url }}/images/ILmap1.png)
