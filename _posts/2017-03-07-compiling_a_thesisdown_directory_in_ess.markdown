@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Compiling a thesisdown directory in ess"
-date: 2017-MM-DD TT:TT:TT 
-categories: 
+date: 2017-03-07 05:05:05 
+categories: emacs
 lang: en
 ref: thesisDown1
 ---
