@@ -2,7 +2,7 @@
 layout: post
 title: "Compiling a thesisdown directory in ess"
 date: 2017-03-07 05:05:05 
-categories: emacs
+categories: spacemacs
 lang: en
 ref: thesisDown1
 ---
