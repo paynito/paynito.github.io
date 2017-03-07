@@ -25,7 +25,7 @@ bookdown::render_book("Index.Rmd")
 
 Then I wrote a defun - define function, in emacs that calls this script.
 
-{% highlight EmacsLisp %}
+{% highlight racket %}
 ;; a function to compile my thesis
   (defun compileThesis (arg)       ; Interactive version.
     "Compiles thesis."
@@ -35,7 +35,7 @@ Then I wrote a defun - define function, in emacs that calls this script.
 {% endhighlight %}
 And finally, a keybinding to call it. Now I can be working in 03-chap3.Rmd and quickly compile the project, which of course will auto-refresh
 if you use [Skim](http://skim-app.sourceforge.net/) instead of Preview as your pdf viewer.
-{% highlight EmacsLisp %}
+{% highlight racket %}
 
 (global-set-key (kbd "M-m c t")   (lambda () (interactive) 'compileThesis))   ;            ;; mnemonic - "compile Thesis"
 
