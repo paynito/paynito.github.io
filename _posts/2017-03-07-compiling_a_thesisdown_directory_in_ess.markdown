@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Compiling a thesisdown directory in ess
-date: {}
+date: 2017-03-06 13:48:44 +0333
 categories: spacemacs
 lang: en
 ref: thesisDown1
