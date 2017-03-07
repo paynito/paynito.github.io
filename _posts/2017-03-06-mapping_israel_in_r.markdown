@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Mapping Israel in R
-date: 2017-02-06 03:48:44 +0333
+date: 2017-03-06 03:48:44 +0333
 categories: gis maps mapping
 lang: en
 tags: gis map Israel
