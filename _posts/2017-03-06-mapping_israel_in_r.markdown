@@ -1,11 +1,12 @@
 ---
 layout: post
-title: "Mapping Israel in R"
-date: 2017-03-05 03:22:33 
-categories: gis maps mapping 
+title: Mapping Israel in R
+date: {}
+categories: gis maps mapping
 lang: en
 tags: gis map Israel
 ref: mapV1
+published: true
 ---
 
 I think I spent two or three days trying to map in R about 6 months ago, but I couldn't find the shape files for Israel, even after visiting the 
@@ -78,6 +79,12 @@ ggmap(mapImageData3,
   labs(x="Longitude",
        y="Latitude")
 {% endhighlight %}
+
+<div id="container">   It still remains to match the areas to some useful data (birthrate, income, z-ness, rainfall . . . ) and produce a cloropleth.
+
+    <div id="floated">![map with shapes]({{ site.url }}/images/ILmap1.png)</div>
+    All [code for this post](https://gist.github.com/academikuser/57cdcd6732b22be836d7f939b069692d) is available as a gist.
+</div>
 ![map with shapes]({{ site.url }}/images/ILmap1.png)
 It still remains to match the areas to some useful data (birthrate, income, z-ness, rainfall . . . ) and produce a cloropleth. 
 All [code for this post](https://gist.github.com/academikuser/57cdcd6732b22be836d7f939b069692d) is available as a gist.
