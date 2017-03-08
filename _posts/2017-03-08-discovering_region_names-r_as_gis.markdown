@@ -34,6 +34,9 @@ see previous post for code to download the shapes
 rgdal::readOGR(dsn="./includes/ISR_adm", layer="ISR_adm1", disambiguateFIDs = TRUE)
 {% endhighlight %}
 
+## Output of that command. Gives me the "NAME_1" field
+This contains recognizable names. But how do I access these?
+{% highlight R %}
  An object of class "SpatialPolygonsDataFrame"
  
  Slot "data":
@@ -53,6 +56,8 @@ rgdal::readOGR(dsn="./includes/ISR_adm", layer="ISR_adm1", disambiguateFIDs = TR
  5  111 ISR Israel    6 Jerusalem  Mehoz  District      <NA>
  
  6  111 ISR Israel    7  Tel Aviv  Mehoz  District      <NA>
+
+{% endhighlight %}
 
 It looks like I need to use the NAME_1 field to color the individual districts
 on the map.  Stopping for today.
