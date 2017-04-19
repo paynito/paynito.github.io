@@ -8,70 +8,48 @@
       <div class="footer-col footer-col-1">
         <ul class="contact-list">
           <li>{{ site.title[page.lang] }}</li>
-          <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+          <li>  {% include icon-email.html %}
+              <a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+          <br>
+          <li><a href="http://pgp.mit.edu/">PGP</a></li>
+          <br>
+          F313 4252 A9B7 CFCD 56F2 8CE6 EFB7 156D 6662 B1
+          <br>
         </ul>
       </div>
 
       <div class="footer-col footer-col-2">
-        <ul class="social-media-list">
-          {% if site.github_username %}
-          <li>
-            {% include icon-github.html username=site.github_username %}
-          </li>
-          {% endif %}
+          <ul class="social-media-list">
+              {% if site.github_username %}
+              <li>
+                  {% include icon-github.html username=site.github_username %}
+              </li>
+              <br>
+              <li>
+                  {% include icon-mastodon.html username=" @benyomin" %}
+                  
+              </li>
+              {% endif %}
 
-          {% if site.twitter_username %}
-          <li>
-            {% include icon-twitter.html username=site.twitter_username %}
-          </li>
-          {% endif %}
-        </ul>
+              {% if site.twitter_username %}
+              <li>
+                  {% include icon-twitter.html username=site.twitter_username %}
+              </li>
+              {% endif %}
+          </ul>
       </div>
 
       <div class="footer-col footer-col-3">
-          <p>{{ site.description[page.lang] }}</p>
+          <div text-align:right> <p align="right">{{ site.description[page.lang] }}</p></div>
+          <p>
+          {% include icon-jabber.html %} benyominhagalili -[at]- jabber.ru
+      </p>
+         <p> OTR
+         </p>
+          7E7933D3 071C3A66 C0C0B309 FE71B89E 63C45216 
       </div>
     </div>
 
   </div>
-  <!--
-       this is the new part
-
-       comment -->
-  
-  <div class="container">
-      <div class="left0"; width:55px;>
-          Contact:
-          <br></div>
-          <span id="between1">
-              Benyomin Hagalili
-              <br> </span>
-              <span id="right1"; class="he">
-                  <bdi>
-                      בנימן הגלילי
-                  </bdi>
-              </span>
-              <br>
-              <div class="left"; width:55px;>
-                  E - mail:
-                  <br></div>
-                  <span id="between">
-                      PGP fingerprint - benyominhagalili@mail.ru
-
-                      <br>
-                      F313 4252 A9B7 CFCD 56F2  8CE6 EFB7 156D 6662 B1
-                  </span>
-                  <br>
-                  <div class="left2";width:95px;>
-                      OTR IM:</div>
-                  <span id="between2">
-                      jabber / xmpp  .- . benyominhagalili@jabber.ru
-
-                      <br>
-                      7E7933D3 071C3A66 C0C0B309 FE71B89E 63C45216
-                  </span>
-  </div>
-
-
-  <!-- end the new part-->
+   <!-- end the new part-->
 </footer>
