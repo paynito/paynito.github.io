@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "a new post"
-date: 2017-MM-DD TT:TT:TT 
-categories: 
+date: 2017-04-19 11:03:03  
+categories: html
 lang: en
 ref: testFooter
 ---
