@@ -11,7 +11,7 @@ title:
   he: בנימן הגלילי - דף הבית אקדמי
 email: benyomin-[at]-benyomin.net
 description:
-  en: MA student in Israel-Studies at Sde Boker.
+  en: בנימן הגלילי
   he: אני גר בשדה בוקר
 index:
   en:
@@ -23,7 +23,7 @@ baseurl:  # the subpath of your site, e.g. /blog
 exclude: [Gemfile, Gemfile.lock, README.md, vendor, org, .hyde.el]
 url: "http://paynito.github.io" # the base hostname & protocol for your site
 twitter_username: 
-github_username:  paynito
+github_username: benyomin
 excerpt_separator: <!--more-->
 # Build settings
 markdown: kramdown
