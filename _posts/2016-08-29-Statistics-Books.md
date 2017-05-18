@@ -30,7 +30,3 @@ So, here R some R and Stats Books in [a .bib](https://gist.github.com/benyomin/7
 
 <script src="https://gist.github.com/benyomin/778a4fb1c557bf0323d258a9123d994f.js"></script>
 
-Check out my main page at [benyomin.cf][benyomin-link].
-This is just the blog component for that page.
-
-[benyomin-link]: http://benyomin.cf
