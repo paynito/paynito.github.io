@@ -26,9 +26,9 @@ I wanted to share a BibLaTeX file with some stats books I'm using on my MA Thesi
 Maybe they will help you with you-R oR Stats oR Research oR Something.
 
 ![](http://i.imgur.com/ta4Vx7q.png =384x)
-So, here R some R and Stats Books in [a .bib](https://github.com/paynito/dotfiles/blob/master/statsBooksAug29.bib)
+So, here R some R and Stats Books in [a .bib](https://gist.github.com/benyomin/778a4fb1c557bf0323d258a9123d994f)
 
-
+<script src="https://gist.github.com/benyomin/778a4fb1c557bf0323d258a9123d994f.js"></script>
 
 Check out my main page at [benyomin.cf][benyomin-link].
 This is just the blog component for that page.

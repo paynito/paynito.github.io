@@ -27,11 +27,11 @@ excerpt_separator: <!--more-->
 
 ![](http://i.imgur.com/ta4Vx7q.png =384x)
 
-[a .bib](https://github.com/paynito/dotfiles/blob/master/statsBooksAug29.bib)
+
+ [a .bib](https://gist.github.com/benyomin/778a4fb1c557bf0323d258a9123d994f)
+
+<script src="https://gist.github.com/benyomin/778a4fb1c557bf0323d258a9123d994f.js"></script>
 
 
 
-[benyomin.cf][benyomin-link].
-
-[benyomin-link]: http://benyomin.cf
 
